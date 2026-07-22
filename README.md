@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=210&section=header&text=Vivek%20Aggarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20MSc%20%40%20University%20of%20Edinburgh&descSize=18&descAlignY=52" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=210&section=header&text=Vivek%20Aggarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20MSc%20%40%20University%20of%20Edinburgh&descSize=18&descAlignY=52" alt="Banner" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vivek+Aggarwal+%F0%9F%91%8B;Software+Engineer+%2B+Data+Scientist;MSc+Data+Science+%40+Edinburgh;Building+Scalable+AI+Systems+%E2%9A%A1;Java+%C2%B7+Python+%C2%B7+Spring+Boot+%C2%B7+PyTorch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vivek+Aggarwal+%F0%9F%91%8B;Machine+Learning+Engineer;MSc+Data+Science+%40+Edinburgh;MSc+dissertation+with+Amazon;Python+%C2%B7+PyTorch+%C2%B7+NLP+%C2%B7+Spring+Boot" alt="Typing SVG" />
 
-### Software Engineer (2+ YOE) & Data Scientist | MSc @ The University of Edinburgh
+### Machine Learning Engineer | MSc Data Science @ Edinburgh | 2+ yrs production software engineering
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://vivek21-coder.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek1401)
@@ -21,12 +21,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **MSc Data Science** student at **The University of Edinburgh** (2025-2026) - Machine Learning, NLP, Deep Learning, Information Retrieval
-- 💼 Ex-**Software Engineer @ Zenon** (2+ years) - engineered client-facing **Spring Boot + Angular** platforms, including a Sales & Revenue Forecasting system and a Hiring Management System
-- 🔭 Recent work: a **hybrid lexical + semantic code search engine** (Gemini LLM, RAG/RRF, pgvector) and a from-scratch **manuscript-restoration GAN** in PyTorch
-- 🌱 Currently deepening: **Advanced NLP, Deep Learning & LLM-powered retrieval systems**
+- 🎓 **MSc Data Science** at **The University of Edinburgh** (2025-2026). My dissertation is a collaboration with **Amazon** (Applied Science, Edinburgh): comparing LLM-based data augmentation and knowledge distillation against efficient embedding baselines for text classification, under realistic label and compute budgets
+- 🔭 Recent builds: a **hybrid lexical + semantic code search engine** (Gemini, RAG/RRF, pgvector, GCP) and a **manuscript-restoration GAN** written from scratch in PyTorch that repairs damaged historical documents without hallucinating text
+- 💼 Before the MSc: two and a half years at **Zenon**, intern to **Software Engineer** in six months, owning client-facing **Spring Boot + Angular** platforms including a Sales & Revenue Forecasting system and a Hiring Management System
 - 🏆 **Codeforces Expert** (max rating 1865) - I keep my algorithms sharp on [Codeforces](https://codeforces.com/profile/vivek1401) and [LeetCode](https://leetcode.com/u/vivek1401/)
-- 🎯 Open to **Machine Learning Engineer / Data Scientist / Software Engineer** roles - available full-time from **autumn 2026** (UK & international)
+- 🎯 Looking for **Machine Learning Engineer / Applied AI / Data Scientist** roles from **autumn 2026**. Eligible to work in the UK on the Graduate Route, so no sponsorship is required, and open to international roles
 - ⚡ Fun fact: as Session Head of my university's coding society, I taught **DSA & OOP** to hundreds of juniors - teaching is still my favourite way to learn
 - 📫 Reach me at **vivek.agg.va21@gmail.com**
 
@@ -108,7 +107,7 @@
 <tr>
 <td width="50%">
 
-### 🔍 [Hybrid Code Search Engine](https://github.com/kllrv-cw-3/hybrid-search-engine)
+### 🔍 [Hybrid Code Search Engine](https://github.com/vivek21-coder/hybrid-search-engine)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_LLM-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
@@ -185,7 +184,7 @@ End-to-end candidate tracking system automating workflows from application to of
 - **MSc Data Science** - The University of Edinburgh, UK *(2025-2026)*
   Machine Learning · NLP · Deep Learning · Text Technologies / Information Retrieval · Data Systems
 - **BTech Computer Engineering** - J.C. Bose University of Science & Technology, YMCA, India *(2019-2023)*
-  DSA · OOP · DBMS · Operating Systems | Joint Secretary, UCCDA (Technical Society) · Session Head, MANAN (Coding Society)
+  DSA · OOP · DBMS · Operating Systems | Secretary, UCCDA (Technical Society) · Senior Session Head, MANAN (Coding Society)
 
 ## 📜 Certifications
 
@@ -228,7 +227,7 @@ End-to-end candidate tracking system automating workflows from application to of
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vivek21-coder/vivek21-coder/output/github-snake.svg" />
 </picture>
 
-**"Bridging the gap between robust software architecture and advanced AI systems"** 🚀
+**Machine learning, built by someone who has had to keep software running in production.**
 
 </div>
 
