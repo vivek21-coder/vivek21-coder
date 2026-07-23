@@ -22,6 +22,7 @@
 ## 🚀 About Me
 
 - 🎓 **MSc Data Science** at **The University of Edinburgh** (2025-2026). My dissertation is a collaboration with **Amazon** (Applied Science, Edinburgh): comparing LLM-based data augmentation and knowledge distillation against efficient embedding baselines for text classification, under realistic label and compute budgets
+- 🥈 **Two 2nd-place finishes in early 2026**, from month-long builds run in parallel alongside coursework: **Opal**, a voice-controlled web accessibility agent (ACCESSAITHON), and a biplanar X-ray to 3D bone reconstruction model (Edinburgh AI x Anthropic Expo)
 - 🔭 Recent builds: a **hybrid lexical + semantic code search engine** (Gemini, RAG/RRF, pgvector, GCP) and a **manuscript-restoration GAN** written from scratch in PyTorch that repairs damaged historical documents without hallucinating text
 - 💼 Before the MSc: two and a half years at **Zenon**, intern to **Software Engineer** in six months, owning client-facing **Spring Boot + Angular** platforms including a Sales & Revenue Forecasting system and a Hiring Management System
 - 🏆 **Codeforces Expert** (max rating 1865) - I keep my algorithms sharp on [Codeforces](https://codeforces.com/profile/vivek1401) and [LeetCode](https://leetcode.com/u/vivek1401/)
@@ -104,6 +105,44 @@
 ## 💼 Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### 🗣️ [Opal - Voice-Controlled Web Accessibility Agent](https://github.com/vivek21-coder/opal-a11y)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**🥈 2nd prize, ACCESSAITHON 2026 (University of Edinburgh).** Lets visually impaired users browse any website entirely by speech.
+
+**Highlights:**
+- 🎙️ Voice loop: Groq Whisper STT + Edge TTS neural voices, streamed over one WebSocket so audio starts before generation ends
+- 🤖 Gemini agent classifies intent, then drives headless Chromium via Playwright + browser-use to click, scroll & fill forms
+- 🌍 10 languages end to end, including in-place page translation
+- ♿ Built to WCAG 2.2 Level AA
+
+</td>
+<td width="50%">
+
+### 🦴 [Biplanar X-ray to 3D Bone Reconstruction](https://github.com/vivek21-coder/xray2bone)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00D9FF?style=flat-square)
+![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-E11D48?style=flat-square)
+
+**🥈 2nd prize, Edinburgh AI x Anthropic Expo 2026.** Reconstructs a 3D bone mesh from ordinary 2D X-rays.
+
+**Highlights:**
+- 🧠 Shared-weight ConvNeXt encoder fuses AP + lateral views into a 1024-dim latent
+- 🌐 Neural implicit occupancy decoder (DenseNet blocks + conditional batch norm, Fourier-encoded query points)
+- 🏭 Training pairs rendered as DRRs through whole CT volumes, so soft-tissue attenuation survives into the input
+- 📐 Marching cubes + Laplacian smoothing to export a GLB mesh
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
