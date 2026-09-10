@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=210&section=header&text=Vivek%20Aggarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%26Software%20Engineer%20%E2%80%A2%20MSc%20%40%20University%20of%20Edinburgh&descSize=18&descAlignY=52" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=210&section=header&text=Vivek%20Aggarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%20%26amp%3B%20Software%20Engineer%20%E2%80%A2%20MSc%20%40%20University%20of%20Edinburgh&descSize=18&descAlignY=52" alt="Banner" />
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek21-coder&theme=tokyonight" alt="Top Languages by Repo" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek21-coder&theme=tokyonight" alt="Top Languages by Commit" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivek21-coder&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://ghchart.rshah.org/vivek21-coder" alt="Contribution Graph" />
 
 </div>
 
