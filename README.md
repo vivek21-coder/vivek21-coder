@@ -82,8 +82,6 @@
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek21-coder&theme=tokyonight" alt="Top Languages by Repo" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek21-coder&theme=tokyonight" alt="Top Languages by Commit" />
 
-<img width="100%" src="https://ghchart.rshah.org/vivek21-coder" alt="Contribution Graph" />
-
 </div>
 
 ---
@@ -96,8 +94,8 @@
 [![Codeforces Rank](https://img.shields.io/badge/Rank-Expert_%28max_1865%29-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vivek1401)
 [![LeetCode](https://img.shields.io/badge/LeetCode-vivek1401-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vivek1401/)
 
-<a href="https://codeforces.com/profile/vivek1401"><img height="195" src="https://codeforces-readme-stats.vercel.app/api/card?username=vivek1401&theme=tokyonight" alt="Codeforces Stats" /></a>
-<a href="https://leetcode.com/u/vivek1401/"><img height="195" src="https://leetcard.jacoblin.cool/vivek1401?theme=dark&font=Karma" alt="LeetCode Stats" /></a>
+<a href="https://codeforces.com/profile/vivek1401"><img height="195" src="https://codeforces-readme-stats.vercel.app/api/card?username=vivek1401" alt="Codeforces Stats" /></a>
+<a href="https://leetcode.com/u/vivek1401/"><img height="195" src="https://leetcard.jacoblin.cool/vivek1401" alt="LeetCode Stats" /></a>
 
 </div>
 
