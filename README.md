@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=210&section=header&text=Vivek%20Aggarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20MSc%20%40%20University%20of%20Edinburgh&descSize=18&descAlignY=52" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=210&section=header&text=Vivek%20Aggarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%26Software%20Engineer%20%E2%80%A2%20MSc%20%40%20University%20of%20Edinburgh&descSize=18&descAlignY=52" alt="Banner" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vivek+Aggarwal+%F0%9F%91%8B;Machine+Learning+Engineer;MSc+Data+Science+%40+Edinburgh;MSc+dissertation+with+Amazon;Python+%C2%B7+PyTorch+%C2%B7+NLP+%C2%B7+Spring+Boot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vivek+Aggarwal+%F0%9F%91%8B;Machine+Learning+Engineer;AI+Engineer;Software+Engineer;MSc+Data+Science+%40+Edinburgh;2.5+yrs+production+experience;PyTorch+%C2%B7+LLMs+%C2%B7+Spring+Boot" alt="Typing SVG" />
 
-### Machine Learning Engineer | MSc Data Science @ Edinburgh | 2+ yrs production software engineering
+### Machine Learning Engineer | AI & Software Engineer | MSc Data Science @ Edinburgh | 2.5 yrs Exp
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=flat-square&logo=google-chrome&logoColor=white)](https://vivek21-coder.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek1401)
@@ -21,13 +21,13 @@
 
 ## 🚀 About Me
 
-- 🎓 **MSc Data Science** at **The University of Edinburgh** (2025-2026). My dissertation is a collaboration with **Amazon** (Applied Science, Edinburgh): comparing LLM-based data augmentation and knowledge distillation against efficient embedding baselines for text classification, under realistic label and compute budgets
-- 🥈 **Two 2nd-place finishes in early 2026**, from month-long builds run in parallel alongside coursework: **Opal**, a voice-controlled web accessibility agent (ACCESSAITHON), and a biplanar X-ray to 3D bone reconstruction model (Edinburgh AI x Anthropic Expo)
-- 🔭 Recent builds: a **hybrid lexical + semantic code search engine** (Gemini, RAG/RRF, pgvector, GCP) and a **manuscript-restoration GAN** written from scratch in PyTorch that repairs damaged historical documents without hallucinating text
-- 💼 Before the MSc: two and a half years at **Zenon**, intern to **Software Engineer** in six months, owning client-facing **Spring Boot + Angular** platforms including a Sales & Revenue Forecasting system and a Hiring Management System
-- 🏆 **Codeforces Expert** (max rating 1865) - I keep my algorithms sharp on [Codeforces](https://codeforces.com/profile/vivek1401) and [LeetCode](https://leetcode.com/u/vivek1401/)
-- 🎯 Looking for **Machine Learning Engineer / Applied AI / Data Scientist** roles from **autumn 2026**. Eligible to work in the UK on the Graduate Route, so no sponsorship is required, and open to international roles
-- ⚡ Fun fact: as Session Head of my university's coding society, I taught **DSA & OOP** to hundreds of juniors - teaching is still my favourite way to learn
+- 🎓 **MSc Data Science** at **The University of Edinburgh** (2025-2026). My dissertation is a collaboration with **Amazon** (Applied Science, Edinburgh): evaluating LLM-based data augmentation and knowledge distillation against efficient embedding baselines for text classification under real-world label and compute budgets.
+- 🥈 **Two 2nd-place finishes in early 2026**, from parallel AI builds alongside coursework: **Opal**, a voice-controlled accessibility agent (ACCESSAITHON), and a **Biplanar X-ray to 3D Bone Mesh** reconstruction model (Edinburgh AI x Anthropic Expo).
+- 🔭 Recent open-source builds: a **Hybrid Code Search Engine** (fusing lexical retrieval with Gemini semantic summaries via Reciprocal Rank Fusion) and a **Script-Agnostic Manuscript Restoration GAN**.
+- 💼 Before Edinburgh: two and a half years of production software engineering at **Zenon**, progressing from intern to **Software Engineer**, owning client-facing **Spring Boot + Angular** platforms including a Sales & Revenue Forecasting system.
+- 🏆 **Codeforces Expert** (max rating 1865) - I keep my algorithms sharp on [Codeforces](https://codeforces.com/profile/vivek1401) and [LeetCode](https://leetcode.com/u/vivek1401/).
+- 🎯 Looking for **Machine Learning Engineer, AI & Software Engineer, and Data Scientist** roles from **autumn 2026**. Eligible to work in the UK on the Graduate Route (no sponsorship required), and open to international roles.
+- ⚡ Fun fact: as Session Head of my university's coding society, I taught **DSA & OOP** to hundreds of juniors - teaching is still my favourite way to learn.
 - 📫 Reach me at **vivek.agg.va21@gmail.com**
 
 ---
@@ -53,12 +53,14 @@
 
 ### Web & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Cloud, DevOps & Databases
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,7 +69,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -116,12 +117,12 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**🥈 2nd prize, ACCESSAITHON 2026 (University of Edinburgh).** Lets visually impaired users browse any website entirely by speech.
+**🥈 2nd prize, ACCESSAITHON 2026.** Lets visually impaired users browse any website entirely by speech.
 
 **Highlights:**
-- 🎙️ Voice loop: Groq Whisper STT + Edge TTS neural voices, streamed over one WebSocket so audio starts before generation ends
-- 🤖 Gemini agent classifies intent, then drives headless Chromium via Playwright + browser-use to click, scroll & fill forms
-- 🌍 10 languages end to end, including in-place page translation
+- 🎙️ A Gemini agent classifies requests and drives a headless Chromium session via Playwright
+- 🤖 Groq Whisper handles speech-to-text and Edge TTS handles playback via streaming WebSockets
+- 🌍 Supports 10 languages end-to-end (including in-place page translation)
 - ♿ Built to WCAG 2.2 Level AA
 
 </td>
@@ -136,10 +137,9 @@
 **🥈 2nd prize, Edinburgh AI x Anthropic Expo 2026.** Reconstructs a 3D bone mesh from ordinary 2D X-rays.
 
 **Highlights:**
-- 🧠 Shared-weight ConvNeXt encoder fuses AP + lateral views into a 1024-dim latent
-- 🌐 Neural implicit occupancy decoder (DenseNet blocks + conditional batch norm, Fourier-encoded query points)
-- 🏭 Training pairs rendered as DRRs through whole CT volumes, so soft-tissue attenuation survives into the input
-- 📐 Marching cubes + Laplacian smoothing to export a GLB mesh
+- 🧠 Uses a shared-weight ConvNeXt encoder and a neural implicit occupancy decoder
+- 🏭 Training pairs generated from the CADS CT dataset by rendering digitally reconstructed radiographs to preserve soft-tissue attenuation
+- 📐 Inference exports a GLB mesh via marching cubes
 
 </td>
 </tr>
@@ -154,13 +154,12 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-LLM-powered code search that fuses lexical full-text search with Gemini-generated semantic summaries via Reciprocal Rank Fusion (RAG-style retrieval).
+LLM-powered code search over a microservice monorepo that fuses lexical full-text search with Gemini-generated semantic summaries via Reciprocal Rank Fusion.
 
 **Highlights:**
-- 🌲 Multi-language, function-level indexing with tree-sitter
-- 🧠 Hybrid retrieval: boolean/phrase/proximity search + LLM semantic summaries, fused with RRF
-- 📏 Full IR evaluation harness - P@K, MRR, NDCG + 60+ adversarial robustness cases
-- ☁️ Deployed on GCP with Terraform
+- 🌲 Built the Python tree-sitter indexer and Gemini summarization pipeline
+- 🧠 Developed the Vue.js frontend and deployed on GCP with Terraform
+- 📏 Hardened with a full IR evaluation harness (P@K, MRR, NDCG) and 60+ adversarial cases
 
 </td>
 <td width="50%">
@@ -171,12 +170,12 @@ LLM-powered code search that fuses lexical full-text search with Gemini-generate
 ![GANs](https://img.shields.io/badge/GANs-8B5CF6?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-00D9FF?style=flat-square)
 
-Script-agnostic conditional Pix2Pix GAN that removes physical damage from historical manuscripts while preserving the underlying text **by construction**.
+Conditional Pix2Pix GAN (PyTorch) that removes physical damage from historical manuscripts without altering the underlying text.
 
 **Highlights:**
-- 🧩 Residual U-Net predicts a sparse damage delta - no text hallucination
-- 🏭 Trained 100% on synthetic data: 74 fonts, 12 scripts, 16 physics-based damage types
-- 🌍 Zero-shot generalization to unseen scripts; validated on real DIBCO / NoisyOffice documents
+- 🧩 A residual U-Net predicts a sparse damage delta to avoid hallucination
+- 🏭 Trained entirely on synthetic data from a self-built procedural pipeline
+- 🌍 Achieved zero-shot generalization to unseen scripts (validated on real DIBCO/NoisyOffice documents)
 
 </td>
 </tr>
@@ -190,10 +189,10 @@ Script-agnostic conditional Pix2Pix GAN that removes physical damage from histor
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-Predictive forecasting platform analyzing historical data to project future sales trends. *Built at Zenon (proprietary).*
+A predictive forecasting platform analyzing historical data to project future sales trends. *Built at Zenon (proprietary).*
 
 **Highlights:**
-- 🎛️ Scenario modeling with adjustable parameters across yearly, monthly & weekly intervals
+- 🎛️ Enabled scenario modeling with adjustable parameters for yearly, monthly, and weekly intervals
 - 📊 Real-time visualizations powering financial planning for stakeholders
 
 </td>
@@ -206,11 +205,11 @@ Predictive forecasting platform analyzing historical data to project future sale
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-End-to-end candidate tracking system automating workflows from application to offer. *Built at Zenon (proprietary).*
+Tracking system that automates candidate workflows from application to offer. *Built at Zenon (proprietary).*
 
 **Highlights:**
-- 🔔 Automated status updates, real-time notifications & activity logs
-- 📋 Dynamic dashboards giving recruiters clear visibility into hiring metrics
+- 🔔 Automated status updates, real-time notifications, and detailed activity logs
+- 📋 Created dynamic dashboards giving recruiters clear visibility into hiring metrics
 
 </td>
 </tr>
