@@ -76,11 +76,11 @@
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek21-coder&theme=tokyonight" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=vivek21-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivek21-coder" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=vivek21-coder" alt="GitHub Streak" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek21-coder&theme=tokyonight" alt="Top Languages by Repo" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek21-coder&theme=tokyonight" alt="Top Languages by Commit" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek21-coder" alt="Top Languages by Repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivek21-coder" alt="Top Languages by Commit" />
 
 </div>
 
