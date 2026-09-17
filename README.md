@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🎓 **MSc Data Science** at **The University of Edinburgh** (2025-2026). My dissertation is a collaboration with **Amazon** (Applied Science, Edinburgh): evaluating LLM-based data augmentation and knowledge distillation against efficient embedding baselines for text classification under real-world label and compute budgets.
-- 🥈 **Two 2nd-place finishes in early 2026**, from parallel AI builds alongside coursework: **Opal**, a voice-controlled accessibility agent (ACCESSAITHON), and a **Biplanar X-ray to 3D Bone Mesh** reconstruction model (Edinburgh AI x Anthropic Expo).
+- 🥈 **Two 2nd-place finishes in early 2026**, from parallel AI builds alongside coursework: **Opal**, a voice-controlled accessibility agent (AccessAIthon), and a **Biplanar X-ray to 3D Bone Mesh** reconstruction model (Edinburgh AI x Anthropic Expo).
 - 🔭 Recent open-source builds: a **Hybrid Code Search Engine** (fusing lexical retrieval with Gemini semantic summaries via Reciprocal Rank Fusion) and a **Script-Agnostic Manuscript Restoration GAN**.
 - 💼 Before Edinburgh: two and a half years of production software engineering at **Zenon**, progressing from intern to **Software Engineer**, owning client-facing **Spring Boot + Angular** platforms including a Sales & Revenue Forecasting system.
 - 🏆 **Codeforces Expert** (max rating 1865) - I keep my algorithms sharp on [Codeforces](https://codeforces.com/profile/vivek1401) and [LeetCode](https://leetcode.com/u/vivek1401/).
@@ -115,7 +115,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-**🥈 2nd prize, ACCESSAITHON 2026.** Lets visually impaired users browse any website entirely by speech.
+**🥈 2nd prize, AccessAIthon 2026.** Lets visually impaired users browse any website entirely by speech.
 
 **Highlights:**
 - 🎙️ A Gemini agent classifies requests and drives a headless Chromium session via Playwright
